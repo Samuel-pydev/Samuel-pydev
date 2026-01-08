@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Samuel-pydev/Samuel-pydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Samuel**, an aspiring Machine Learning Engineer based in Nigeria 🇳🇬.
 
-Here are some ideas to get you started:
+I build and train machine learning models to solve problems that feel personal, broken, or quietly ignored.  
+If something bugs me enough, I try to teach a machine how to fix it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I work with
+- **Python**
+- **TensorFlow**
+- **Transformers**
+- **Hugging Face**
+- **Streamlit**
+
+### 🌱 Currently
+- Deepening my understanding of ML systems and model deployment  
+- Learning by building, breaking, and rebuilding  
+
+### 🤝 Open to
+- Collaborating on ML or AI projects  
+- Learning from people who enjoy solving real problems  
+
+If you care about thoughtful engineering, practical ML, or turning ideas into working systems, we’ll probably get along.
