@@ -10,6 +10,7 @@ If something bugs me enough, I try to teach a machine how to fix it.
 - **TensorFlow**
 - **Transformers**
 - **Hugging Face**
+- **Langchain**
 - **Streamlit**
 
 ### 🌱 Currently
